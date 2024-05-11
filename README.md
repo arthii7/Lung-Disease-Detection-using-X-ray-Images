@@ -1,6 +1,6 @@
 # Lung-Disease-Detection-using-X-ray-Images
 
-verview:
+Overview:
 The Lung Disease Detection project focuses on developing a system for automatically detecting lung diseases, such as pneumonia or tuberculosis, using X-ray images. Leveraging transfer learning techniques with pre-trained deep learning models, this project aims to build an accurate and efficient diagnostic tool to assist healthcare professionals in early disease detection and diagnosis.
 
 Key Features:
